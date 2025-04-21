@@ -1,0 +1,10 @@
+# Python venv ve gereksiz dosyalar
+venv/
+__pycache__/
+*.pyc
+
+# VS Code dosyaları
+.vscode/
+
+# Jupyter checkpoint
+.ipynb_checkpoints/
